@@ -10,6 +10,7 @@
 ## 📕 Sobre
 
 Meu primeiro projeto React com Typescript, na verdade é um projeto que eu ja havia realizado, mas resolvi refaze-lo para fixar meus conhecimentos, e implementar o Typescript.
+O projeto consiste em uma lista de tarefas, você pode adicionar uma nova tarefa, marcá-la como concluída ou removê-la.
 
 ## ⚙ Ferramentas utilizadas
 
