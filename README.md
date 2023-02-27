@@ -1,7 +1,7 @@
 <h1 align="center">React-TS Tasks - Diogo Jorge</h1>
 
 <h1 align="center">
-    <a href="https://diogofernandoj-ts-tasks" target="blank">
+    <a href="https://diogofernandoj-ts-tasks.netlify.app" target="blank">
         <img src="react-ts-tasks-photo.png">
         <small align="center">Clique para visitar o projeto🔗</small>
     </a>
